@@ -3,7 +3,8 @@
 
 <p>🎮 Games where you can find me online :</p>
 <ul>
-  <li>Final Fantasy XIV ( Steam version )</li>
   <li>Animal Crossing New Horizons ( Nintendo Switch )</li>
+  <li>Final Fantasy XIV ( Steam )</li>
   <li>Pokemon Scarlet ( Nintendo Switch )</li>
+  <li>Streets of Rage 4 ( Steam )</li>
 </ul>
